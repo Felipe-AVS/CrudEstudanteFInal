@@ -19,8 +19,9 @@ export class ClientsComponent implements OnInit {
     this.formGroupClient = formBuilder.group({
       id: [''],
       name: [''],
-      email: ['']
-
+      email: [''],
+      matricula : [''],
+      unidadeEstadual: ['']
     });
   }
 

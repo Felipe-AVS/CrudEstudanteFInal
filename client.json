@@ -2,13 +2,24 @@
   "clients": [
     {
       "id": 1,
-      "name": "Cliente Gamer 1",
-      "email": "ClienteGamer1@emailfoda.com"
+      "name": "Jefferson Silva",
+      "email": "Jeffsilva@emailescola.com",
+      "matricula": "1397123971",
+      "unidadeEstadual": "SP"
     },
     {
       "id": 2,
-      "name": "Cliente Gamer 2",
-      "email": "ClienteGamer2@email.com"
+      "name": "Joana Oliveira",
+      "email": "JoOliveira@emailescola.com",
+      "matricula": "2583218753",
+      "unidadeEstadual": "RJ"
+    },
+    {
+      "id": 3,
+      "name": "Rafaela Santos",
+      "email": "RafaSantos@emailescola.com",
+      "matricula": "1397123971",
+      "unidadeEstadual": "MG"
     }
   ]
 }
